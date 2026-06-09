@@ -8,6 +8,9 @@ I'm open to work on any projects so feel free to ask me some help.
 - 🌱 I’m currently learning **different topics** (I enjoy to learn a lot of things)
 - 💬 Ask me about **everything you want 😄**
 
+### Interactive CV Website 
+- [Click here to discover my CV](https://othmane2378.github.io/my-portfolio/)
+
 ---
 
 ### 🛠️ Languages and Tools:
